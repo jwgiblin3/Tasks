@@ -1,0 +1,4 @@
+C:\Users\John\documents\visual studio 2013\Projects\Test\RevisionTask\bin\Debug\RevisionTask.dll
+C:\Users\John\documents\visual studio 2013\Projects\Test\RevisionTask\bin\Debug\RevisionTask.pdb
+C:\Users\John\documents\visual studio 2013\Projects\Test\RevisionTask\obj\Debug\RevisionTask.dll
+C:\Users\John\documents\visual studio 2013\Projects\Test\RevisionTask\obj\Debug\RevisionTask.pdb
